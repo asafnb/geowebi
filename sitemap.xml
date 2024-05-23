@@ -2,47 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://asafnb.github.io/geowebi/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://asafnb.github.io/geowebi/changelog/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://asafnb.github.io/geowebi/common/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://asafnb.github.io/geowebi/contributing/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://asafnb.github.io/geowebi/faq/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://asafnb.github.io/geowebi/geowebi/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://asafnb.github.io/geowebi/installation/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://asafnb.github.io/geowebi/usage/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://asafnb.github.io/geowebi/examples/intro/</loc>
-         <lastmod>2024-05-18</lastmod>
+         <lastmod>2024-05-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://asafnb.github.io/geowebi/examples/ipyleaflet/</loc>
+         <lastmod>2024-05-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
